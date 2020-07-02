@@ -1,0 +1,130 @@
+
+.henader.data-v-457cfe48 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 35px;
+	background-color: #EEEEEE;
+	padding-top: 8px;
+}
+.chckas.data-v-457cfe48 {
+	margin-top: 43px;
+	margin-left: 5px;
+}
+.onecenter.data-v-457cfe48 {
+	height: 110px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	padding-top: 10px;
+	border-bottom: 1px solid #C0C0C0;
+}
+.imgss.data-v-457cfe48 {
+	width: 100px;
+	height: 100px;
+}
+.rightile.data-v-457cfe48 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin-top: 5px;
+}
+.righttileleft.data-v-457cfe48 {
+	font-size: 12px;
+	font-weight: 600;
+	width: 182px;
+}
+.righttextkg.data-v-457cfe48 {
+	margin-left: 62px;
+	width: 40px;
+	text-align: center;
+	color: #646566;
+}
+.kgnum.data-v-457cfe48 {
+	color: #646566;
+	font-size: 14px;
+	margin-top: 5px;
+}
+.rightcentbot.data-v-457cfe48 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin-top: 20px;
+}
+.rightrightadd.data-v-457cfe48 {
+	margin-left: 185px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.add.data-v-457cfe48 {
+	width: 20px;
+	height: 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	text-align: center;
+	color: #F47E1F;
+	padding-top: -5px;
+}
+.centervie.data-v-457cfe48 {
+	width: 20px;
+	text-align: center;
+	color: #646566;
+}
+.price.data-v-457cfe48 {
+	color: #F47E1F;
+}
+.footerview.data-v-457cfe48 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	height: 40px;
+	padding-top: 14px;
+	position: fixed;
+	bottom:0;
+	background-color: #F4F3F3;
+	border-top: 2px solid #C0C0C0;
+}
+.inpcall.data-v-457cfe48 {
+	font-size: 14px;
+	margin-left: 5px;
+}
+.allprice.data-v-457cfe48 {
+	width: 80px;
+	text-align: center;
+	margin-left: 180px;
+	color: #F47E1F;
+}
+.payprie.data-v-457cfe48 {
+	width: 95px;
+	height: 41px;
+	background-color: #F47E1F;
+	text-align: center;
+	padding-top: 14px;
+	margin-top: -16px;
+	color: #FFFFFF;
+}
+

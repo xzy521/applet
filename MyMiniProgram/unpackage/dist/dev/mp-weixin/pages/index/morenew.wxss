@@ -1,0 +1,106 @@
+
+.centerview.data-v-19cc9b45 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	height: 130px;
+	border-bottom: 1px solid #C0C0C0;
+	padding-top: 15px;
+}
+.leftimagurl.data-v-19cc9b45 {
+	width: 200rpx;
+	height: 200rpx;
+}
+.rightview.data-v-19cc9b45 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-left: 5px;
+	width: 252px;
+}
+.righttextone.data-v-19cc9b45 {
+	font-size: 14px;
+	color: #555;
+}
+.righttexttow.data-v-19cc9b45 {
+	color: #BBBABB;
+	font-size: 11px;
+	margin-top: 5px;
+}
+.pricetext.data-v-19cc9b45 {
+	font-size: 11px;
+	color: #C0C0C0;
+	margin-top: 20px;
+}
+.rightbotview.data-v-19cc9b45 {
+	margin-top: 15px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.moneytext.data-v-19cc9b45 {
+	font-size: 13px;
+	color: #F0AD4E;
+	margin-top: 3px;
+}
+.textmontprice.data-v-19cc9b45 {
+	width: 40px;
+	font-size: 16px;
+	color: #F0AD4E;
+}
+.quarry.data-v-19cc9b45 {
+	font-size: 12px;
+	width: 41px;
+	height: 18px;
+	background-color: #F0AD4E;
+	color: #FFFFFF;
+	margin-left: 15px;
+	margin-top: 3px;
+}
+.iconadd.data-v-19cc9b45 {
+	position: relative;
+	width: 30px;
+	height: 30px;
+	left: 153px;
+	top: -3px;
+}
+.heanderxinx.data-v-19cc9b45 {
+	width: 100%;
+	height: 30px;
+	background-color: #F8F8F8;
+	color: #747474;
+	text-align: center;
+	padding-top: 3px;
+}
+.centtree.data-v-19cc9b45{
+	width: 100%;
+	height: 28px;
+	background-color: #F5F5F5;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.tet.data-v-19cc9b45{
+	display: block;
+	font-size: 12px;
+	padding-top: 5px;
+}
+

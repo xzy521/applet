@@ -1,0 +1,215 @@
+
+.heandereonde.data-v-78081a74 {
+	width: 96%;
+	height: 191px;
+	margin-left: 2%;
+	background-color: #F0F0EE;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+.imgs.data-v-78081a74 {
+	width: 60px;
+	height: 60px;
+	border-radius: 36px;
+	margin-left: 13px;
+	margin-top: 15px;
+}
+.ondhe.data-v-78081a74 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	width: 100%;
+	height: 70%;
+}
+.ssdwa.data-v-78081a74 {
+	width: 30px;
+	height: 30px;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+.kporids.data-v-78081a74 {
+	margin-left: 10px;
+	margin-top: 15px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.sys_btn.data-v-78081a74 {
+	font-size: 14px;
+	font-weight: 700;
+	width: 95px;
+	height: 35px;
+	border: none;
+}
+.qdtexts.data-v-78081a74 {
+	display: block;
+	width: 91px;
+	height: 20px;
+	background-color: #FF8700;
+	font-size: 14px;
+	text-align: center;
+	border-radius: 8px;
+	color: #ffff;
+	margin-top: 5px;
+}
+.ewmawivie.data-v-78081a74 {
+	width: 73px;
+	height: 42px;
+	margin-left: 146px;
+	border-top-left-radius: 38px;
+	background-color: #C2C2C2;
+	border-bottom-left-radius: 38px;
+	margin-top: 15px;
+}
+.bottview.data-v-78081a74 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: space-evenly;
+	-webkit-justify-content: space-evenly;
+	        justify-content: space-evenly;
+}
+.adsauq.data-v-78081a74 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.jfd.data-v-78081a74 {
+	display: block;
+	font-size: 14px;
+	width: 80px;
+	text-align: center;
+}
+.jfddssw.data-v-78081a74 {
+	display: block;
+	width: 80px;
+	text-align: center;
+}
+.dadqwa.data-v-78081a74 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	padding-top: 20px;
+	/* justify-content: space-between; */
+	margin-bottom: 26px;
+}
+.towhend.data-v-78081a74 {
+	width: 96%;
+	height: 160px;
+	margin-left: 2%;
+	background-color: #FCFCFC;
+	border: 1px solid #C0C0C0;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+.adwpp.data-v-78081a74 {
+	margin-left: 257px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	font-size: 12px;
+	font-weight: 700;
+}
+.alltext.data-v-78081a74 {
+	display: block;
+}
+.mysw.data-v-78081a74 {
+	margin-left: 15px;
+}
+.treseeview.data-v-78081a74 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	width: 96%;
+	height: 210px;
+	margin-left: 2%;
+	background-color: #FCFCFC;
+	border: 1px solid #C0C0C0;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+.trenbovue.data-v-78081a74 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	width: 270px;
+	height: 128px;
+	background-color: #F3F3F3;
+	margin-left: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.monpri.data-v-78081a74 {
+	font-size: 40px;
+	display: block;
+	font-weight: 700;
+	margin-top: 25px;
+}
+.givepric.data-v-78081a74 {
+	display: block;
+	font-size: 13px;
+	color: #F47E1F;
+	margin-left: 18px;
+}
+.footer.data-v-78081a74 {
+	margin-top: 16px;
+}
+.header.data-v-78081a74 {
+	margin: 90rpx 0 90rpx 50rpx;
+	border-bottom: 1px solid #ccc;
+	text-align: center;
+	width: 650rpx;
+	height: 300rpx;
+	line-height: 450rpx;
+}
+.header image.data-v-78081a74 {
+	width: 200rpx;
+	height: 200rpx;
+}
+.content.data-v-78081a74 {
+	margin-left: 50rpx;
+	margin-bottom: 90rpx;
+}
+.content text.data-v-78081a74 {
+	display: block;
+	color: #9d9d9d;
+	margin-top: 40rpx;
+}
+.bottom.data-v-78081a74 {
+	border-radius: 80rpx;
+	margin: 70rpx 50rpx;
+	font-size: 35rpx;
+}
+
